@@ -59,10 +59,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/shoaib-malik" target="_blank">
+  <a href="www.linkedin.com/in/shoaib-malik-7583682ba" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ShoaibMalik06" target="_blank">
+  <a href="https://github.com/Er-shoaib-malik" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
